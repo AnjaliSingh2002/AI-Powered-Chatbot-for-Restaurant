@@ -1,0 +1,304 @@
+{
+  "menu": [
+    {
+      "id": "001",
+      "name": "Spaghetti Carbonara",
+      "description": "Classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper.",
+      "price": 12.99
+    },
+    {
+      "id": "002",
+      "name": "Margherita Pizza",
+      "description": "Traditional Neapolitan pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 10.99
+    },
+    {
+      "id": "003",
+      "name": "Risotto ai Funghi",
+      "description": "Creamy Italian rice dish cooked with mushrooms, onions, white wine, and Parmesan cheese.",
+      "price": 14.99
+    },
+    {
+      "id": "004",
+      "name": "Pollo alla Cacciatora",
+      "description": "Tender chicken cooked in a savory tomato sauce with onions, garlic, and herbs.",
+      "price": 16.99
+    },
+    {
+      "id": "005",
+      "name": "Bruschetta al Pomodoro",
+      "description": "Toasted Italian bread topped with fresh tomatoes, garlic, basil, and olive oil.",
+      "price": 8.99
+    },
+    {
+      "id": "006",
+      "name": "Tiramisu",
+      "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers, mascarpone cheese, and cocoa powder.",
+      "price": 7.99
+    },
+    {
+      "id": "007",
+      "name": "Caprese Salad",
+      "description": "Simple Italian salad made with fresh tomatoes, mozzarella cheese, basil, and olive oil.",
+      "price": 9.99
+    },
+    {
+      "id": "008",
+      "name": "Osso Buco",
+      "description": "Slow-cooked veal shanks served with a rich sauce made from white wine, tomatoes, and vegetables.",
+      "price": 20.99
+    },
+    {
+      "id": "009",
+      "name": "Gnocchi al Pesto",
+      "description": "Soft potato dumplings served with a creamy pesto sauce made with basil, pine nuts, and Parmesan cheese.",
+      "price": 15.99
+    },
+    {
+      "id": "010",
+      "name": "Cannoli Siciliani",
+      "description": "Crispy pastry tubes filled with sweet ricotta cheese and chocolate chips, dusted with powdered sugar.",
+      "price": 6.99
+    },
+    {
+      "id": "011",
+      "name": "Fettuccine Alfredo",
+      "description": "Creamy pasta dish made with fettuccine noodles, butter, cream, and Parmesan cheese.",
+      "price": 13.99
+    },
+    {
+      "id": "012",
+      "name": "Margherita Pizza",
+      "description": "Traditional Neapolitan pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 11.99
+    },
+    {
+      "id": "013",
+      "name": "Lasagna",
+      "description": "Classic Italian pasta dish made with layers of pasta, meat sauce, ricotta cheese, and mozzarella.",
+      "price": 17.99
+    },
+    {
+      "id": "014",
+      "name": "Minestrone Soup",
+      "description": "Hearty Italian vegetable soup made with tomatoes, beans, carrots, celery, and pasta.",
+      "price": 6.99
+    },
+    {
+      "id": "015",
+      "name": "Chicken Marsala",
+      "description": "Chicken breasts cooked in a Marsala wine sauce with mushrooms, onions, and garlic.",
+      "price": 18.99
+    },
+    {
+      "id": "016",
+      "name": "Margherita Pizza",
+      "description": "Traditional Neapolitan pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 12.99
+    },
+    {
+      "id": "017",
+      "name": "Tiramisu",
+      "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers, mascarpone cheese, and cocoa powder.",
+      "price": 8.99
+    },
+    {
+      "id": "018",
+      "name": "Eggplant Parmesan",
+      "description": "Breaded and fried eggplant slices layered with marinara sauce, mozzarella, and Parmesan cheese.",
+      "price": 15.99
+    },
+    {
+      "id": "019",
+      "name": "Calamari Fritti",
+      "description": "Tender rings of calamari lightly battered and fried until golden brown, served with marinara sauce.",
+      "price": 11.99
+    },
+    {
+      "id": "020",
+      "name": "Cannelloni",
+      "description": "Pasta tubes filled with a savory mixture of beef, spinach, and ricotta cheese, baked in marinara sauce.",
+      "price": 16.99
+    },
+    {
+      "id": "021",
+      "name": "Margherita Pizza",
+      "description": "Traditional Neapolitan pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 13.99
+    },
+    {
+      "id": "022",
+      "name": "Panna Cotta",
+      "description": "Creamy Italian dessert made with sweetened cream and gelatin, topped with fruit sauce.",
+      "price": 7.99
+    },
+    {
+      "id": "023",
+      "name": "Chicken Piccata",
+      "description": "Chicken breasts sautéed in a lemon butter sauce with capers, white wine, and parsley.",
+      "price": 19.99
+    },
+    {
+      "id": "024",
+      "name": "Margherita Pizza",
+      "description": "Traditional Neapolitan pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 14.99
+    },
+    {
+      "id": "025",
+      "name": "Cacio e Pepe",
+      "description": "Simple Italian pasta dish made with spaghetti, Pecorino Romano cheese, and black pepper.",
+      "price": 11.99
+    },
+    {
+      "id": "026",
+      "name": "Veal Parmesan",
+      "description": "Breaded and fried veal cutlets topped with marinara sauce and melted mozzarella cheese.",
+      "price": 21.99
+    },
+    {
+      "id": "027",
+      "name": "Margherita Pizza",
+      "description": "Traditional Neapolitan pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 15.99
+    },
+    {
+      "id": "028",
+      "name": "Panzanella Salad",
+      "description": "Refreshing Italian salad made with tomatoes, cucumbers, onions, basil, and chunks of bread, tossed in a vinaigrette dressing.",
+      "price": 9.99
+    },
+    {
+      "id": "029",
+      "name": "Ravioli al Tartufo",
+      "description": "Homemade ravioli stuffed with truffle-infused cheese, served with a creamy Alfredo sauce.",
+      "price": 18.99
+    },
+    {
+      "id": "030",
+      "name": "Margherita Pizza",
+      "description": "Traditional Neapolitan pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 16.99
+    },
+    {
+      "id": "031",
+      "name": "Cioppino",
+      "description": "Italian seafood stew made with a variety of fish and shellfish, tomatoes, onions, and herbs.",
+      "price": 22.99
+    },
+    {
+      "id": "032",
+      "name": "Capellini Primavera",
+      "description": "Angel hair pasta tossed with fresh vegetables such as zucchini, bell peppers, and cherry tomatoes in a garlic and olive oil sauce.",
+      "price": 14.99
+    },
+    {
+      "id": "033",
+      "name": "Margherita Pizza",
+      "description": "Traditional Neapolitan pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 17.99
+    },
+    {
+      "id": "034",
+      "name": "Ossobuco alla Milanese",
+      "description": "Slow-braised veal shanks served with a gremolata of lemon zest, garlic, and parsley.",
+      "price": 24.99
+    },
+    {
+      "id": "035",
+      "name": "Torta Caprese",
+      "description": "Flourless chocolate and almond cake originating from the island of Capri, served with a dusting of powdered sugar.",
+      "price": 8.99
+    },
+    {
+      "id": "036",
+      "name": "Margherita Pizza",
+      "description": "Traditional Neapolitan pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 18.99
+    },
+    {
+      "id": "037",
+      "name": "Saltimbocca alla Romana",
+      "description": "Thin veal cutlets wrapped in prosciutto and sage, cooked in a white wine and butter sauce.",
+      "price": 20.99
+    },
+    {
+      "id": "038",
+      "name": "Gelato",
+      "description": "Italian-style ice cream available in a variety of flavors such as chocolate, vanilla, pistachio, and strawberry.",
+      "price": 6.99
+    },
+    {
+      "id": "039",
+      "name": "Margherita Pizza",
+      "description": "Traditional Neapolitan pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 19.99
+    },
+    {
+      "id": "040",
+      "name": "Pasta all'Amatriciana",
+      "description": "Italian pasta dish made with bucatini pasta, tomato sauce, pancetta, onions, and Pecorino Romano cheese.",
+      "price": 16.99
+    },
+    {
+      "id": "041",
+      "name": "Carpaccio di Manzo",
+      "description": "Thinly sliced raw beef served with arugula, shaved Parmesan cheese, and a drizzle of olive oil and lemon juice.",
+      "price": 12.99
+    },
+    {
+      "id": "042",
+      "name": "Margherita Pizza",
+      "description": "Traditional Neapolitan pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 20.99
+    },
+    {
+      "id": "043",
+      "name": "Pasta alla Puttanesca",
+      "description": "Italian pasta dish made with spaghetti, tomatoes, olives, capers, garlic, and anchovies.",
+      "price": 15.99
+    },
+    {
+      "id": "044",
+      "name": "Caponata",
+      "description": "Sicilian eggplant dish made with fried eggplant, tomatoes, celery, olives, and capers, seasoned with vinegar and sugar.",
+      "price": 10.99
+    },
+    {
+      "id": "045",
+      "name": "Margherita Pizza",
+      "description": "Traditional Neapolitan pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 21.99
+    },
+    {
+      "id": "046",
+      "name": "Linguine alle Vongole",
+      "description": "Italian pasta dish made with linguine noodles, fresh clams, garlic, white wine, and parsley.",
+      "price": 18.99
+    },
+    {
+      "id": "047",
+      "name": "Zuppa di Pesce",
+      "description": "Italian seafood soup made with a variety of fish and shellfish, tomatoes, garlic, and herbs.",
+      "price": 22.99
+    },
+    {
+      "id": "048",
+      "name": "Margherita Pizza",
+      "description": "Traditional Neapolitan pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 22.99
+    },
+    {
+      "id": "049",
+      "name": "Insalata di Mare",
+      "description": "Italian seafood salad made with mixed seafood, celery, onions, lemon juice, and olive oil.",
+      "price": 14.99
+    },
+    {
+      "id": "050",
+      "name": "Risotto ai Frutti di Mare",
+      "description": "Creamy Italian rice dish cooked with mixed seafood, garlic, white wine, and Parmesan cheese.",
+      "price": 20.99
+    }
+  ]
+}
